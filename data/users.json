@@ -1,0 +1,25 @@
+[
+  {"user_id": 1, "nome": "João Silva", "idade": 25, "cidade": "São Paulo", "estado": "SP"},
+  {"user_id": 2, "nome": "Maria Souza", "idade": 32, "cidade": "Rio de Janeiro", "estado": "RJ"},
+  {"user_id": 3, "nome": "Carlos Pereira", "idade": 28, "cidade": "Belo Horizonte", "estado": "MG"},
+  {"user_id": 4, "nome": "Ana Costa", "idade": 35, "cidade": "Curitiba", "estado": "PR"},
+  {"user_id": 5, "nome": "Pedro Santos", "idade": 22, "cidade": "Salvador", "estado": "BA"},
+
+  {"user_id": 6, "nome": "Lucas Oliveira", "idade": 30, "cidade": "Fortaleza", "estado": "CE"},
+  {"user_id": 7, "nome": "Juliana Rocha", "idade": 27, "cidade": "Recife", "estado": "PE"},
+  {"user_id": 8, "nome": "Rafael Alves", "idade": 40, "cidade": "Porto Alegre", "estado": "RS"},
+  {"user_id": 9, "nome": "Fernanda Lima", "idade": 29, "cidade": "Brasília", "estado": "DF"},
+  {"user_id": 10, "nome": "Bruno Ribeiro", "idade": 34, "cidade": "Goiânia", "estado": "GO"},
+
+  {"user_id": 11, "nome": "Camila Martins", "idade": 26, "cidade": "Manaus", "estado": "AM"},
+  {"user_id": 12, "nome": "Gabriel Fernandes", "idade": 31, "cidade": "Belém", "estado": "PA"},
+  {"user_id": 13, "nome": "Patrícia Gomes", "idade": 38, "cidade": "Florianópolis", "estado": "SC"},
+  {"user_id": 14, "nome": "Rodrigo Carvalho", "idade": 24, "cidade": "Vitória", "estado": "ES"},
+  {"user_id": 15, "nome": "Amanda Teixeira", "idade": 33, "cidade": "Campo Grande", "estado": "MS"},
+
+  {"user_id": 16, "nome": "Diego Barros", "idade": 36, "cidade": "Cuiabá", "estado": "MT"},
+  {"user_id": 17, "nome": "Larissa Freitas", "idade": 28, "cidade": "Natal", "estado": "RN"},
+  {"user_id": 18, "nome": "Thiago Melo", "idade": 41, "cidade": "João Pessoa", "estado": "PB"},
+  {"user_id": 19, "nome": "Vanessa Batista", "idade": 23, "cidade": "Maceió", "estado": "AL"},
+  {"user_id": 20, "nome": "Eduardo Dias", "idade": 37, "cidade": "Aracaju", "estado": "SE"}
+]

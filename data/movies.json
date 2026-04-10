@@ -1,0 +1,61 @@
+[
+  {"movie_id": 1, "nome": "A Última Missão", "genero": "Ação", "ano": 2018, "duracao": 120},
+  {"movie_id": 2, "nome": "Amor em Paris", "genero": "Romance", "ano": 2020, "duracao": 105},
+  {"movie_id": 3, "nome": "Mistério Sombrio", "genero": "Suspense", "ano": 2019, "duracao": 98},
+  {"movie_id": 4, "nome": "Riso Garantido", "genero": "Comédia", "ano": 2021, "duracao": 95},
+  {"movie_id": 5, "nome": "Galáxia Perdida", "genero": "Ficção Científica", "ano": 2022, "duracao": 130},
+
+  {"movie_id": 6, "nome": "O Herói Improvável", "genero": "Ação", "ano": 2017, "duracao": 110},
+  {"movie_id": 7, "nome": "Segredos do Passado", "genero": "Drama", "ano": 2016, "duracao": 115},
+  {"movie_id": 8, "nome": "Corrida Mortal", "genero": "Ação", "ano": 2021, "duracao": 102},
+  {"movie_id": 9, "nome": "Amigos para Sempre", "genero": "Comédia", "ano": 2015, "duracao": 108},
+  {"movie_id": 10, "nome": "Noite de Terror", "genero": "Terror", "ano": 2018, "duracao": 97},
+
+  {"movie_id": 11, "nome": "Cidade Perdida", "genero": "Aventura", "ano": 2019, "duracao": 112},
+  {"movie_id": 12, "nome": "Destino Final", "genero": "Suspense", "ano": 2014, "duracao": 100},
+  {"movie_id": 13, "nome": "Paixão Proibida", "genero": "Romance", "ano": 2020, "duracao": 109},
+  {"movie_id": 14, "nome": "O Código Secreto", "genero": "Ação", "ano": 2023, "duracao": 125},
+  {"movie_id": 15, "nome": "Viagem no Tempo", "genero": "Ficção Científica", "ano": 2022, "duracao": 118},
+
+  {"movie_id": 16, "nome": "A Grande Jornada", "genero": "Aventura", "ano": 2013, "duracao": 122},
+  {"movie_id": 17, "nome": "Rindo à Toa", "genero": "Comédia", "ano": 2019, "duracao": 90},
+  {"movie_id": 18, "nome": "Medo Profundo", "genero": "Terror", "ano": 2021, "duracao": 101},
+  {"movie_id": 19, "nome": "Entre Amigos", "genero": "Drama", "ano": 2018, "duracao": 110},
+  {"movie_id": 20, "nome": "Operação Secreta", "genero": "Ação", "ano": 2020, "duracao": 117},
+
+  {"movie_id": 21, "nome": "Coração Valente", "genero": "Drama", "ano": 2017, "duracao": 130},
+  {"movie_id": 22, "nome": "O Despertar", "genero": "Ficção Científica", "ano": 2022, "duracao": 119},
+  {"movie_id": 23, "nome": "Amor à Primeira Vista", "genero": "Romance", "ano": 2016, "duracao": 104},
+  {"movie_id": 24, "nome": "O Labirinto", "genero": "Suspense", "ano": 2021, "duracao": 111},
+  {"movie_id": 25, "nome": "Explosão Total", "genero": "Ação", "ano": 2019, "duracao": 123},
+
+  {"movie_id": 26, "nome": "Sonhos Perdidos", "genero": "Drama", "ano": 2015, "duracao": 107},
+  {"movie_id": 27, "nome": "O Último Suspiro", "genero": "Terror", "ano": 2020, "duracao": 99},
+  {"movie_id": 28, "nome": "Missão Impossível X", "genero": "Ação", "ano": 2023, "duracao": 132},
+  {"movie_id": 29, "nome": "Planeta Vermelho", "genero": "Ficção Científica", "ano": 2018, "duracao": 116},
+  {"movie_id": 30, "nome": "A Comédia da Vida", "genero": "Comédia", "ano": 2017, "duracao": 95},
+
+  {"movie_id": 31, "nome": "Amor Sem Fronteiras", "genero": "Romance", "ano": 2021, "duracao": 110},
+  {"movie_id": 32, "nome": "A Ilha Misteriosa", "genero": "Aventura", "ano": 2016, "duracao": 113},
+  {"movie_id": 33, "nome": "Sombras da Noite", "genero": "Terror", "ano": 2019, "duracao": 102},
+  {"movie_id": 34, "nome": "Velocidade Máxima", "genero": "Ação", "ano": 2014, "duracao": 118},
+  {"movie_id": 35, "nome": "Rindo do Passado", "genero": "Comédia", "ano": 2022, "duracao": 97},
+
+  {"movie_id": 36, "nome": "Segredos Ocultos", "genero": "Suspense", "ano": 2020, "duracao": 109},
+  {"movie_id": 37, "nome": "A Força do Amor", "genero": "Romance", "ano": 2018, "duracao": 105},
+  {"movie_id": 38, "nome": "Missão Espacial", "genero": "Ficção Científica", "ano": 2021, "duracao": 124},
+  {"movie_id": 39, "nome": "A Jornada Final", "genero": "Aventura", "ano": 2017, "duracao": 121},
+  {"movie_id": 40, "nome": "O Último Riso", "genero": "Comédia", "ano": 2019, "duracao": 93},
+
+  {"movie_id": 41, "nome": "Caminhos Cruzados", "genero": "Drama", "ano": 2016, "duracao": 108},
+  {"movie_id": 42, "nome": "Exploradores do Futuro", "genero": "Ficção Científica", "ano": 2023, "duracao": 128},
+  {"movie_id": 43, "nome": "No Limite", "genero": "Ação", "ano": 2015, "duracao": 115},
+  {"movie_id": 44, "nome": "Amor e Guerra", "genero": "Romance", "ano": 2020, "duracao": 112},
+  {"movie_id": 45, "nome": "A Casa Assombrada", "genero": "Terror", "ano": 2018, "duracao": 100},
+
+  {"movie_id": 46, "nome": "O Grande Golpe", "genero": "Suspense", "ano": 2019, "duracao": 107},
+  {"movie_id": 47, "nome": "Rindo na Estrada", "genero": "Comédia", "ano": 2021, "duracao": 94},
+  {"movie_id": 48, "nome": "Destino Cruzado", "genero": "Drama", "ano": 2017, "duracao": 111},
+  {"movie_id": 49, "nome": "Corrida contra o Tempo", "genero": "Ação", "ano": 2022, "duracao": 119},
+  {"movie_id": 50, "nome": "Amor Virtual", "genero": "Romance", "ano": 2023, "duracao": 103}
+]
