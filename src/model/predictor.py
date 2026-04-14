@@ -1,10 +1,10 @@
 import numpy as np
 import pandas as pd
-from data.loader import load_movies, load_users
-from data.processor import create_mappings, encode_movie, encode_user
+from src.data.loader import load_movies, load_users
+from src.data.processor import create_mappings, encode_movie, encode_user
 
 
-def recommend_movies(model, user_id, top_k=5):
+def recommend_movies(model, user, top_k=5):
 
     # carregar usuarios
     users = load_users()
@@ -16,11 +16,8 @@ def recommend_movies(model, user_id, top_k=5):
     # criar mappings
     states_map, genders_map = create_mappings(df_users, df_movies)
 
-    # pegar usuario
-    user_row = df_users[df_users["user_id"] == user_id].iloc[0]
-
     # vetor do usuario
-    user_vector = encode_user(user_row, states_map)
+    user_vector = encode_user(user, states_map)
 
     scores = []
 
@@ -38,7 +35,7 @@ def recommend_movies(model, user_id, top_k=5):
             {
                 "movie_id": movie["movie_id"],
                 "titulo": movie["nome"],
-                "score": float(prediction),
+                "score": f"{prediction * 100:.2f}%",
             }
         )
 
