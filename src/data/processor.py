@@ -87,7 +87,7 @@ def build_dataset():
         # junta tudo. Cada linha um exemplo de treino
         # y = gostou/não gostou
         X.append(np.concatenate((user_vector, movie_vector)))
-        Y.append(interaction["rating"])
+        Y.append(1 if interaction["rating"] >= 4 else 0)
 
     # converte uma lista em numpy
     return np.array(X), np.array(Y)

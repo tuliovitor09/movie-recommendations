@@ -1,8 +1,15 @@
 from data.processor import build_dataset
+from model.predictor import recommend_movies
+from model.trainer import train_model
 
+# cria dataset
 X, y = build_dataset()
 
-print("Shape X:", X.shape)
-print("Shape y:", y.shape)
-print("Exemplo X:", X[0])
-print("Exemplo y:", y[0])
+# treina o modelo
+model = train_model(X, y)
+
+# faz as recomendações
+recs = recommend_movies(model, user_id=5, top_k=5)
+
+for r in recs:
+    print(r)
